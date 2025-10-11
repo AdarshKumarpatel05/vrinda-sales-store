@@ -40,3 +40,7 @@ To demonstrate end-to-end sales data analysis in Excel, from raw data to actiona
 Adarsh Kumar
 Final Year Student, Diploma in Computer Science & Engineering (2023–26)
 State Board of Technical Education, Bihar
+
+Project Workflow Using Github:-
+<img width="1903" height="1100" alt="image" src="https://github.com/user-attachments/assets/e7007686-248b-4113-874e-be55bb6f58a6" />
+
