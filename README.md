@@ -44,3 +44,6 @@ State Board of Technical Education, Bihar
 Project Workflow Using Github:-
 <img width="1903" height="1100" alt="image" src="https://github.com/user-attachments/assets/e7007686-248b-4113-874e-be55bb6f58a6" />
 
+
+My First Project Journey in Data Analysis
+
