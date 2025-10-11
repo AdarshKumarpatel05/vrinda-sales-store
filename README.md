@@ -1,4 +1,4 @@
-# vrinda-sales-store
+# Vrinda-Sales-Store
 
 📊 Vrinda Sales Data Analysis (Excel Based)
 
